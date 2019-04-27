@@ -1,0 +1,2 @@
+D:\Homework\School\2011-2012\School 2011-2012\COIS-2020\Assignment 2 COIS-2020\Assignment 2 COIS-2020\obj\x86\Debug\Assignment 2 COIS-2020.csprojAssemblyReference.cache
+D:\Homework\School\2011-2012\School 2011-2012\COIS-2020\Assignment 2 COIS-2020\Assignment 2 COIS-2020\obj\x86\Debug\Assignment 2 COIS-2020.csproj.CoreCompileInputs.cache
